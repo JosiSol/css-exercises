@@ -1,0 +1,18 @@
+.click-me
+.no-click
+{
+    font-size: 28px;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid black;
+}
+.click-me
+{
+    background-color: black;
+    color: white;
+}
+.no-click
+{
+    background-color: yellow;
+}
